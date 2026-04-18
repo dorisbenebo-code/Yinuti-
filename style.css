@@ -28,6 +28,7 @@ img {
   width: 30% !important;
   display: block;
   margin: 20px auto;
+  display:inline-flex;
   border-radius: 10px;
   border-style: solid;
     border-color: orange;
