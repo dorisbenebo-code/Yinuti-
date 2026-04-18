@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fff8f0;
+  margin: 20px;
+  line-height: 1.6;
+}
+
+h1 {
+  color: #c0392b;
+  text-align: center;
+}
+
+h2 {
+  color: #2c3e50;
+}
+
+p {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+ul {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+img {
+  width: 30% !important;
+  display: block;
+  margin: 20px auto;
+  border-radius: 10px;
+}
+
+/* Centered image that stays centered */
+#center-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
